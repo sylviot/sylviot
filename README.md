@@ -15,4 +15,8 @@ I'm software developer
 
 [LinkedIn](https://br.linkedin.com/in/sylviot)
 
+<hr />
+
+[![sylviot gitHub stats](https://github-readme-stats.vercel.app/api?username=sylviot&show_icons=true)](https://github.com/sylviot)
+
 (Building...)

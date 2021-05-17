@@ -7,9 +7,9 @@ I'm software developer
 * [Repository](https://github.com/sylviot/study-week-in-202x) - Document my studies and projects.
 
 ### Competitive Programming
-|SPOJ BR|UVa|HackerRank|
-|:-:|:-:|:-:|
-|[Profile](https://br.spoj.com/users/sylviot) <br/> Top 200|[Profile](https://uhunt.onlinejudge.org/id/115319) <br/> Top 10k|[Profile](https://www.hackerrank.com/sylviot)|
+|SPOJ BR|UVa|HackerRank|Codeforces|
+|:-:|:-:|:-:|:-:|
+|[Profile](https://br.spoj.com/users/sylviot) <br/> Top 200|[Profile](https://uhunt.onlinejudge.org/id/115319) <br/> Top 10k|[Profile](https://www.hackerrank.com/sylviot) <br /> Rank O(N)|[Profile](http://codeforces.com/profile/sylviot)|
 
 ### Contact
 

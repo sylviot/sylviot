@@ -4,6 +4,7 @@ I'm software developer
 
 ### Goals to 202X
 * Complete my second degree (Electrical Engineering).
+* [Game Study](https://sylviot.github.io/game-study) - Documentation of my game studies.
 * [Repository](https://github.com/sylviot/study-week-in-202x) - Document my studies and projects.
 
 ### Competitive Programming
